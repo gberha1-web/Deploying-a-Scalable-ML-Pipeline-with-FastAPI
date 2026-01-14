@@ -4,7 +4,7 @@ Working in a command line environment is recommended for ease of use with git an
 * Option 1: use the supplied file `environment.yml` to create a new environment with conda
 * Option 2: use the supplied file `requirements.txt` to create a new environment with pip
     
-## Repositories
+## Repositories,
 * Create a directory for the project and initialize git.
     * As you work on the code, continually commit changes. Trained models you want to use in production must be committed to GitHub.
 * Connect your local git repo to GitHub.
